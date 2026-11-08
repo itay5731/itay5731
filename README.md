@@ -67,7 +67,7 @@
 <a id="s3explorer"></a>
 <h2><img src="assets/icon-s3.png" width="34" align="top" alt=""> S3Explorer</h2>
 
-**A fast desktop app for Amazon S3.** I'm a contributor to [yonatand/S3Explorer](https://github.com/yonatand/S3Explorer): I redesigned the whole interface and built tabs in each pane, pausing and resuming transfers, previewing files without downloading them, bookmarks, speed limits, a transfer history that survives restarts, folder sizes, editing an object's metadata, what's new after an update, and the app icon.
+**A fast desktop app for Amazon S3.** I'm a contributor to [yonatand/S3Explorer](https://github.com/yonatand/S3Explorer): I redesigned the whole interface and built tabs in each pane, pausing and resuming transfers, previewing files without downloading them, bookmarks, speed limits, a transfer history that survives restarts, folder sizes, editing an object's metadata, and what's new after an update.
 
 [My commits](https://github.com/yonatand/S3Explorer/commits?author=itay5731)
 
