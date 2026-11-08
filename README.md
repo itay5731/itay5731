@@ -2,6 +2,8 @@
 
 <p align="center">Just a person with ideas, and the passion to build them.</p>
 
+<p align="center"><sub>What I build for myself. At my companies, I've led and built dozens of products over the years.</sub></p>
+
 <br>
 
 <p align="center">
