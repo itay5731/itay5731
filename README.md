@@ -1,12 +1,19 @@
-<h1>Itay Nadir</h1>
+<h1 align="center">Itay Nadir</h1>
 
-I build apps: Nab, Nadirect and Oak. Each one end to end, from the first sketch to the installer and the website.
+<p align="center">I build apps end to end, from the first sketch to the installer and the website.</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.png">
-  <img src="assets/strip-light.png" alt="Nab, Nadirect and Oak side by side" width="100%">
-</picture>
+<br>
 
+<p align="center">
+  <a href="#nab" title="Nab"><img src="assets/icon-nab.png" width="76" alt="Nab"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#nadirect" title="Nadirect"><img src="assets/icon-nadirect-tile.svg" width="76" alt="Nadirect"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#oak" title="Oak"><img src="assets/icon-oak.svg" width="76" alt="Oak"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#s3explorer" title="S3Explorer"><img src="assets/icon-s3.png" width="76" alt="S3Explorer"></a>
+</p>
+
+<br>
+
+<a id="nab"></a>
 <h2><img src="assets/icon-nab.png" width="34" align="top" alt=""> Nab</h2>
 
 **Your GitLab, at the speed of your keyboard.** Issues, merge requests and pipelines in one fast desktop app, with an AI assistant that runs on your own computer. Windows, macOS and Linux.
@@ -23,7 +30,8 @@ I build apps: Nab, Nadirect and Oak. Each one end to end, from the first sketch 
   </tr>
 </table>
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-nadirect-white.svg"><img src="assets/icon-nadirect.svg" width="32" align="top" alt=""></picture> Nadirect</h2>
+<a id="nadirect"></a>
+<h2><img src="assets/icon-nadirect-tile.svg" width="34" align="top" alt=""> Nadirect</h2>
 
 **The music app for DJs and their crews.** Find the tracks that won't play at the club before the club does, send your library to Rekordbox and Serato, and share music with your crew straight from computer to computer, never through a server. Mac and Windows, free.
 
@@ -31,15 +39,15 @@ I build apps: Nab, Nadirect and Oak. Each one end to end, from the first sketch 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://nadirect.co/videos"><img src="assets/library-check.gif" alt="The Library check finds songs that won't play on CDJs and fixes them" width="100%"></a><br><sub><b>Library check.</b> Every song that won't play on CDJs, fixed in one click.</sub></td>
-    <td width="50%"><a href="https://nadirect.co/videos"><img src="assets/share-songs.gif" alt="Sharing songs from My Library into a group's folder" width="100%"></a><br><sub><b>Share with your crew.</b> Pick the songs, pick the group's folder, done.</sub></td>
+    <td colspan="2"><a href="https://nadirect.co/videos"><img src="assets/nadirect-home.gif" alt="A crew's Home in Nadirect, then New music: what the crew just added, downloaded with a click" width="100%"></a><br><sub><b>Your crew's music, one library.</b> See what your friends just added and take what you want.</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://nadirect.co/videos"><img src="assets/listen-together.gif" alt="Listening together: friends join and hear the same song at the same moment" width="100%"></a><br><sub><b>Listen together.</b> Same song, same moment, one shared queue.</sub></td>
+    <td width="50%"><a href="https://nadirect.co/videos"><img src="assets/library-check.gif" alt="The Library check finds songs that won't play on CDJs and fixes them" width="100%"></a><br><sub><b>Library check.</b> Every song that won't play on CDJs, fixed in one click.</sub></td>
     <td width="50%"><a href="https://nadirect.co/videos"><img src="assets/dj-sync.gif" alt="DJ Sync sends My Library's folders to Serato and Rekordbox as playlists" width="100%"></a><br><sub><b>DJ Sync.</b> Your folders become playlists in Rekordbox and Serato.</sub></td>
   </tr>
 </table>
 
+<a id="oak"></a>
 <h2><img src="assets/icon-oak.svg" width="34" align="top" alt=""> Oak</h2>
 
 **Which company card charges still need an invoice.** Import the monthly Excel, drop invoices in, and they're saved to your Google Drive. Free, runs on Google Apps Script.
@@ -48,18 +56,30 @@ I build apps: Nab, Nadirect and Oak. Each one end to end, from the first sketch 
 
 <table>
   <tr>
+    <td colspan="2"><img src="assets/oak-match.gif" alt="Oak matching several invoice files to charges by amount, vendor and date" width="100%"><br><sub><b>Match.</b> Drop a pile of invoices; each finds its charge.</sub></td>
+  </tr>
+  <tr>
     <td width="50%"><img src="assets/oak-attach.gif" alt="Attaching an invoice to a charge in Oak" width="100%"><br><sub><b>Attach.</b> Drop an invoice on a charge and it's done.</sub></td>
-    <td width="50%"><img src="assets/oak-match.gif" alt="Oak matching several invoice files to charges by amount, vendor and date" width="100%"><br><sub><b>Match.</b> Drop a pile of invoices; each finds its charge.</sub></td>
+    <td width="50%"><img src="assets/oak-list.png" alt="Oak's month of charges in dark mode" width="100%"><br><sub><b>The month at a glance.</b> What's done and what's still missing.</sub></td>
   </tr>
 </table>
 
+<a id="s3explorer"></a>
 <h2><img src="assets/icon-s3.png" width="34" align="top" alt=""> S3Explorer</h2>
 
-**A desktop browser for Amazon S3.** I redesigned its interface and built its Windows installer, in my fork of [yonatand/S3Explorer](https://github.com/yonatand/S3Explorer).
+**A fast desktop app for Amazon S3.** I'm a contributor to [yonatand/S3Explorer](https://github.com/yonatand/S3Explorer): I redesigned the whole interface and built tabs in each pane, pausing and resuming transfers, previewing files without downloading them, bookmarks, speed limits, a transfer history that survives restarts, folder sizes, editing an object's metadata, what's new after an update, and the app icon.
 
-[My fork](https://github.com/itay5731/S3Explorer)
+[My commits](https://github.com/yonatand/S3Explorer/commits?author=itay5731)
 
-<img src="assets/s3explorer.png" alt="S3Explorer: the start screen with saved connections and a bucket open" width="100%">
+<table>
+  <tr>
+    <td colspan="2"><img src="assets/s3explorer.png" alt="S3Explorer: the start screen with saved connections and a bucket open" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/s3-explorer.png" alt="A bucket open, with a file selected and its details showing" width="100%"><br><sub><b>Browse.</b> A bucket open, with a file's details beside it.</sub></td>
+    <td width="50%"><img src="assets/s3-transfers.png" alt="Large downloads in parallel parts, with speed and time remaining" width="100%"><br><sub><b>Transfers.</b> Big files in parallel parts; pause and resume any time.</sub></td>
+  </tr>
+</table>
 
 <br>
 
