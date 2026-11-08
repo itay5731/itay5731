@@ -1,9 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Itay Nadir: I build apps: Nab, Nadirect and Oak" width="100%">
-</picture>
+<h1>Itay Nadir</h1>
 
-I design and build my apps end to end, from the first sketch to the installer and the website. Each one does a single job, and does it well.
+I build apps: Nab, Nadirect and Oak. Each one end to end, from the first sketch to the installer and the website.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.png">
+  <img src="assets/strip-light.png" alt="Nab, Nadirect and Oak side by side" width="100%">
+</picture>
 
 <h2><img src="assets/icon-nab.png" width="34" align="top" alt=""> Nab</h2>
 
