@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#nab" title="Nab"><img src="assets/icon-nab.png" width="76" alt="Nab"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#nadirect" title="Nadirect"><img src="assets/icon-nadirect-tile.svg" width="76" alt="Nadirect"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#nadirect" title="Nadirect"><img src="assets/icon-nadirect.png" width="76" alt="Nadirect"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#oak" title="Oak"><img src="assets/icon-oak.svg" width="76" alt="Oak"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#s3explorer" title="S3Explorer"><img src="assets/icon-s3.png" width="76" alt="S3Explorer"></a>
 </p>
@@ -20,6 +20,8 @@
 
 [Releases](https://github.com/itay5731/Nab-releases/releases)
 
+<sub>Built with Rust, Tauri, TypeScript and React, with AI that runs on your own computer.</sub>
+
 <table>
   <tr>
     <td colspan="2"><img src="assets/nab-tour.gif" alt="A tour of Nab: Home, a merge request's changes and an issue" width="100%"><br><sub><b>Your day on one page.</b> What's late, what's waiting on you, and every review a click away.</sub></td>
@@ -31,11 +33,13 @@
 </table>
 
 <a id="nadirect"></a>
-<h2><img src="assets/icon-nadirect-tile.svg" width="34" align="top" alt=""> Nadirect</h2>
+<h2><img src="assets/icon-nadirect.png" width="34" align="top" alt=""> Nadirect</h2>
 
 **The music app for DJs and their crews.** Find the tracks that won't play at the club before the club does, send your library to Rekordbox and Serato, and share music with your crew straight from computer to computer, never through a server. Mac and Windows, free.
 
 [Download at nadirect.co](https://nadirect.co) · [How-to videos](https://nadirect.co/videos) · [Releases](https://github.com/itay5731/Nadirect-releases/releases)
+
+<sub>Built with TypeScript, React and Electron, with peer-to-peer networking: no server ever holds the music.</sub>
 
 <table>
   <tr>
@@ -54,6 +58,8 @@
 
 [Repository](https://github.com/itay5731/Oak)
 
+<sub>Built with Google Apps Script, HTML and JavaScript.</sub>
+
 <table>
   <tr>
     <td colspan="2"><img src="assets/oak-match.gif" alt="Oak matching several invoice files to charges by amount, vendor and date" width="100%"><br><sub><b>Match.</b> Drop a pile of invoices; each finds its charge.</sub></td>
@@ -71,6 +77,8 @@
 
 [My commits](https://github.com/yonatand/S3Explorer/commits?author=itay5731)
 
+<sub>Built with Rust, Tauri, TypeScript and React.</sub>
+
 <table>
   <tr>
     <td colspan="2"><img src="assets/s3explorer.png" alt="S3Explorer: the start screen with saved connections and a bucket open" width="100%"></td>
@@ -80,7 +88,3 @@
     <td width="50%"><img src="assets/s3-transfers.png" alt="Large downloads in parallel parts, with speed and time remaining" width="100%"><br><sub><b>Transfers.</b> Big files in parallel parts; pause and resume any time.</sub></td>
   </tr>
 </table>
-
-<br>
-
-<sub>Built with TypeScript, React, Electron, Rust and Tauri, peer-to-peer networking, and AI that runs on your own computer.</sub>
