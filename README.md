@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#nab" title="Nab"><img src="assets/icon-nab.png" width="76" alt="Nab"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#nadirect" title="Nadirect"><img src="assets/icon-nadirect.png" width="76" alt="Nadirect"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#oak" title="Oak"><img src="assets/icon-oak.svg" width="76" alt="Oak"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#oak" title="Oak"><img src="assets/icon-oak.png" width="76" alt="Oak"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#s3explorer" title="S3Explorer"><img src="assets/icon-s3.png" width="76" alt="S3Explorer"></a>
 </p>
 
@@ -52,7 +52,7 @@
 </table>
 
 <a id="oak"></a>
-<h2><img src="assets/icon-oak.svg" width="34" align="top" alt=""> Oak</h2>
+<h2><img src="assets/icon-oak.png" width="34" align="top" alt=""> Oak</h2>
 
 **Which company card charges still need an invoice.** Import the monthly Excel, drop invoices in, and they're saved to your Google Drive. Free, runs on Google Apps Script.
 
