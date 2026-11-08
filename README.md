@@ -1,6 +1,6 @@
 <h1 align="center">Itay Nadir</h1>
 
-<p align="center">I build apps end to end, from the first sketch to the installer and the website.</p>
+<p align="center">Just a person with ideas, and the passion to build them.</p>
 
 <br>
 
