@@ -27,11 +27,11 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center"><img src="assets/nab-tour.gif" alt="A tour of Nab: Home, a merge request's changes and an issue" width="100%"><br><sub><b>Your day on one page.</b> What's late, what's waiting on you, and every review a click away.</sub></td>
+    <td colspan="2" align="center"><img src="assets/nab-tour-s.gif" alt="A tour of Nab: Home, a merge request's changes and an issue" width="100%"><br><sub><b>Your day on one page.</b> What's late, what's waiting on you, and every review a click away.</sub></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="assets/nab-ai-act.gif" alt="Typing 'assign mobile#62 to me' and Nab doing it" width="100%"><br><sub><b>Say it, it's done.</b> "Assign mobile#62 to me" and Nab does it.</sub></td>
-    <td width="50%" align="center"><img src="assets/nab-ai-reason.gif" alt="Asking Nab which issue in review is easiest to close, and its answer with sources" width="100%"><br><sub><b>Ask anything.</b> It reads your issues and answers, with its sources.</sub></td>
+    <td width="50%" align="center"><img src="assets/nab-ai-act-s.gif" alt="Typing 'assign mobile#62 to me' and Nab doing it" width="100%"><br><sub><b>Say it, it's done.</b> "Assign mobile#62 to me" and Nab does it.</sub></td>
+    <td width="50%" align="center"><img src="assets/nab-ai-reason-s.gif" alt="Asking Nab which issue in review is easiest to close, and its answer with sources" width="100%"><br><sub><b>Ask anything.</b> It reads your issues and answers, with its sources.</sub></td>
   </tr>
 </table>
 
