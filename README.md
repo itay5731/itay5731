@@ -18,7 +18,7 @@
 <a id="nab"></a>
 <h2 align="center"><img src="assets/icon-nab.png" width="34" align="top" alt=""> Nab</h2>
 
-<p align="center"><b>Your GitLab, at the speed of your keyboard.</b> Issues, merge requests and pipelines in one fast desktop app, with an AI assistant that runs on your own computer. Windows, macOS and Linux.</p>
+<p align="center"><b>Your GitLab, at the speed of your keyboard.</b> Issues, merge requests and pipelines in one fast desktop app, with an AI assistant that runs on your own computer. Review merge requests with real diffs, run your board live, get a plain-words read on why a pipeline failed, and do all of it from the keyboard. Works with GitLab.com and self-managed GitLab, on Windows, macOS and Linux.</p>
 
 <p align="center"><a href="https://github.com/itay5731/Nab-releases/releases">Releases</a></p>
 
