@@ -1,8 +1,9 @@
-<h1 align="center">Itay Nadir</h1>
-
-<p align="center">Just a person with ideas, and the passion to build them.</p>
-
-<p align="center"><sub>What I build for myself. At my companies, I've led and built dozens of products over the years.</sub></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="900" alt="Itay Nadir. Just a person with ideas, and the passion to build them. What I build for myself. At my companies, I’ve led and built dozens of products over the years.">
+  </picture>
+</p>
 
 <br>
 
