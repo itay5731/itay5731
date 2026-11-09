@@ -91,3 +91,7 @@
     <td width="50%" align="center"><img src="assets/s3-transfers.png" alt="Large downloads in parallel parts, with speed and time remaining" width="100%"><br><sub><b>Transfers.</b> Big files in parallel parts; pause and resume any time.</sub></td>
   </tr>
 </table>
+
+<br>
+
+<p align="center"><a href="https://www.linkedin.com/in/itay-nadir"><b>Find me on LinkedIn</b></a></p>
