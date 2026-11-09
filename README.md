@@ -10,7 +10,7 @@
   <a href="#nab" title="Nab"><img src="assets/icon-nab.png" width="76" alt="Nab"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#nadirect" title="Nadirect"><img src="assets/icon-nadirect.png" width="76" alt="Nadirect"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#oak" title="Oak"><img src="assets/icon-oak.png" width="76" alt="Oak"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#s3explorer" title="S3Explorer"><img src="assets/icon-s3.png" width="76" alt="S3Explorer"></a>
+  <a href="#s3explorer" title="S3Explorer"><img src="assets/icon-s3-white.png" width="76" alt="S3Explorer"></a>
 </p>
 
 <br>
@@ -73,7 +73,7 @@
 </table>
 
 <a id="s3explorer"></a>
-<h2><img src="assets/icon-s3.png" width="34" align="top" alt=""> S3Explorer</h2>
+<h2><img src="assets/icon-s3-white.png" width="34" align="top" alt=""> S3Explorer</h2>
 
 **A fast desktop app for Amazon S3.** I'm a contributor to [yonatand/S3Explorer](https://github.com/yonatand/S3Explorer): I redesigned the whole interface and built tabs in each pane, pausing and resuming transfers, previewing files without downloading them, bookmarks, speed limits, a transfer history that survives restarts, folder sizes, editing an object's metadata, and what's new after an update.
 
